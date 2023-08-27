@@ -1,15 +1,13 @@
 import { Grid, Typography, Card, CardContent } from "@mui/material";
 const universityNames = [
-  "Cambridge University",
   "Harvard University",
   "Stanford University",
-  "Massachusetts Institute of Technology (MIT)",
-  "California Institute of Technology (Caltech)",
-  "Princeton University",
-  "Yale University",
+  "Cambridge University",
   "University of Oxford",
-  "University of Chicago",
-  "Imperial College London",
+  "Massachusetts Institute of Technology (MIT)",
+  "Princeton University",
+  "California Institute of Technology (Caltech)",
+  "Yale University",
 ];
 
 const cardStyles = {
